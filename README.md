@@ -1,0 +1,1 @@
+# prototipe-TEST-medicus-adaptative
